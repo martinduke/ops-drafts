@@ -1,0 +1,78 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-03-14T00:51:51.303356+00:00",
+  "repo": "martinduke/ops-drafts",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTUzMDYyNDg1",
+      "title": "Sync with upstream",
+      "url": "https://github.com/martinduke/ops-drafts/pull/1",
+      "state": "MERGED",
+      "author": "martinduke",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-01-11T22:36:12Z",
+      "updatedAt": "2021-01-11T22:36:21Z",
+      "baseRepository": "martinduke/ops-drafts",
+      "baseRefName": "master",
+      "baseRefOid": "735bcfddcc05ef5a5b0f39023738f24fd8ad3ab3",
+      "headRepository": "quicwg/ops-drafts",
+      "headRefName": "master",
+      "headRefOid": "da33c65f57705ab41306deabbe1f02d25f10aedd",
+      "closedAt": "2021-01-11T22:36:20Z",
+      "mergedAt": "2021-01-11T22:36:20Z",
+      "mergedBy": "martinduke",
+      "mergeCommit": {
+        "oid": "f573556f2d62587e73f4ce0ad9f55a58d9f4a6c9"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
